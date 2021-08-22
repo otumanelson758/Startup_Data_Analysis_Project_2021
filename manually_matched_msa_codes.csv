@@ -1,0 +1,116 @@
+original,best_match,probability
+"Battle Creek, MI M.S.A.","Kalamazoo-Battle Creek, MI MSA* (Van Buren County not in sample)",100
+"Boise City, ID M.S.A","Boise City-Nampa, ID (Owyhee County not in sample)",100
+"Bloomington, IL M.S.A.",Bloomington-Normal IL,100
+"Bloomington, IN M.S.A","Bloomington, IN (Owen County not in sample)",100
+"Waterloo-Cedar Falls, IA M.S.A.","Cedar Rapids, IA (Benton and Jones Counties not in sample)",100
+"Kansas City, MO-KS M.S.A.","Kansas City, MO-KS (Franklin, KS; Leavenworth, KS; Linn, KS; Bates, MO; and Caldwell,",100
+"Houma-Thibodaux, LA M.S.A.","Houma-Bayou Cane-Thibodaux, LA",100
+"Baltimore-Columbia-Towson, MD M.S.A.","Baltimore-Towson, MD",100
+"Muskegon, MI M.S.A","Grand Rapids-Muskegon-Holland, MI MSA*",100
+"Gulfport-Biloxi-Pascagoula, MS M.S.A.","Gulfport-Biloxi, MS",100
+"Columbia, MO M.S.A","Columbia, MO (Howard County not in sample)",100
+"Billings, MT M.S.A.","Billings, MT (Carbon County not in sample)",100
+"Reno, NV M.S.A.","Reno-Sparks, NV",100
+"Asheville, NC M.S.A.","Asheville, NC (Haywood and Henderson Counties not in sample)",100
+"Kingsport-Bristol-Bristol, TN-VA M.S.A.","Kingsport-Bristol, TN-VA (Virginia portion not identified)",100
+"Amarillo, TX M.S.A.","Amarillo, TX (Armstrong and Carson Counties not in sample)",100
+"Charleston, WV M.S.A.","Charleston, WV (Clay County not in sample)",100
+"Appleton, WI M.S.A.","Appleton-Oshkosh-Neenah, WI MSA*",100
+"Albany, GA M.S.A.","Albany, GA (Baker, Terrell, and Worth Counties not in sample)",100
+"Boise City, ID M.S.A.","Boise City-Nampa, ID (Owyhee County not in sample)",100
+"Duluth, MN-WI M.S.A.","Duluth, MN-WI (Carlton County, MN not in sample, WI portion not identified)",100
+"Tuscaloosa, AL M.S.A.","Tuscaloosa, AL (Greene and Hale Counties not in sample)",100
+"Florence-Muscle Shoals, AL M.S.A.","Florence, AL",100
+"Little Rock-North Little Rock-Conway, AR M.S.A.","Little Rock-North Little Rock, AR (Perry County not in sample)",100
+"Fort Smith, AR-OK M.S.A.","Fort Smith, AR-OK (Oklahoma portion not in sample)",100
+"San Francisco-Oakland-Hayward, CA M.S.A.","San Francisco-Oakland-Fremont, CA",100
+"San Francisco-Redwood City-South San Francisco, CA M.D.","San Francisco-Oakland-Fremont, CA",100
+"Oakland-Hayward-Berkeley, CA M.D.","San Francisco-Oakland-Fremont, CA",100
+"Santa Maria-Santa Barbara, CA M.S.A.","Santa Barbara-Santa Maria-Goleta, CA",100
+"Los Angeles-Long Beach-Anaheim, CA M.S.A.","Los Angeles-Long Beach-Santa Ana, CA",100
+"Los Angeles-Long Beach-Glendale, CA M.D.","Los Angeles-Long Beach-Santa Ana, CA",100
+"San Diego-Carlsbad, CA M.S.A.","San Diego-Carlsbad-San Marcos, CA",100
+"Anaheim-Santa Ana-Irvine, CA M.D.","Los Angeles-Long Beach-Santa Ana, CA",100
+"Riverside-San Bernardino-Ontario, CA M.S.A.","Riverside-San Bernardino, CA",100
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA M.S.A.","San Luis Obispo-Paso Robles, CA",100
+"San Rafael, CA M.D.","San Francisco-Oakland-Fremont, CA",100
+"Santa Rosa, CA M.S.A.","Santa Rosa-Petaluma, CA",100
+"Stockton-Lodi, CA M.S.A.","Stockton, CA",100
+"Denver-Aurora-Lakewood, CO M.S.A.3, 4","Denver-Aurora, CO",100
+"Fort Collins, CO M.S.A.","Fort Collins-Loveland, CO",100
+"Norwich-New London, CT M.S.A.","Norwich-New London, CT-RI (RI portion recoded to Providence NECTA)",100
+"Wilmington, DE-MD-NJ M.D.2","Philadelphia-Camden-Wilmington, PA-NJ-DE",100
+"Washington-Arlington-Alexandria, DC-VA-MD-WV M.S.A.","Washington-Arlington-Alexandria, DC-VA-MD-WV (West Virginia portion not identified.  R",100
+"Fort Lauderdale-Pompano Beach-Deerfield Beach, FL M.D.","Miami-Fort Lauderdale-Miami Beach, FL",100
+"Miami-Miami Beach-Kendall, FL M.D.","Miami-Fort Lauderdale-Miami Beach, FL",100
+"Panama City, FL M.S.A.","Panama City-Lynn Haven, FL",100
+"Orlando-Kissimmee-Sanford, FL M.S.A.","Orlando, FL",100
+"Naples-Immokalee-Marco Island, FL M.S.A.","Naples-Marco Island, FL",100
+"Gainesville, FL M.S.A.","Gainesville, FL (Gilchrist County not in sample)",100
+"West Palm Beach-Boca Raton-Delray Beach, FL M.D.","Palm Bay-Melbourne-Titusville, FL",100
+"Atlanta-Sandy Springs-Roswell, GA M.S.A.","Atlanta-Sandy Springs-Marietta, GA (Haralson, Heard, Jasper, Meriwether and Spalding C",100
+"Columbus, GA-AL M.S.A.","Columbus, GA-AL (Harris County, GA not in sample)",100
+"Athens-Clarke County, GA M.S.A.","Athens-Clark County, GA (Oglethorpe County not in sample)",100
+"Macon-Bibb County, GA M.S.A.","Macon,, GA (Crawford, Monroe, and Twiggs Counties not in sample)",100
+"Kahului-Wailuku-Lahaina, HI M.S.A.","Honolulu, HI",100
+"Chicago-Naperville-Elgin, IL-IN-WI M.S.A.","Chicago-Naperville-Joliet, IN-IN-WI (DeKalb, IL; Jasper, IN; and Kenosha, WI Counties",100
+"Chicago-Naperville-Arlington Heights, IL M.D.","Chicago-Naperville-Joliet, IN-IN-WI (DeKalb, IL; Jasper, IN; and Kenosha, WI Counties",100
+"Elgin, IL M.D","Chicago-Naperville-Joliet, IN-IN-WI (DeKalb, IL; Jasper, IN; and Kenosha, WI Counties",100
+"Evansville, IN-KY M.S.A.","Evansville, IN-KY (Gibson County, IN and Kentucky portion not in sample)",100
+"South Bend-Mishawaka, IN-MI M.S.A.","South Bend-Mishawaka, IN-MI (Michigan portion not identified)",100
+"Nashville-Davidson–Murfreesboro–Franklin, TN M.S.A.","Nashville-Davidson-Murfreesboro, TN (Cannon, Hickman and Macon Counties not in sample)",100
+"Des Moines-West Des Moines, IA M.S.A.","Des Moines, IA",100
+"Sioux City, IA-NE-SD M.S.A.2","Sioux Falls, SD",100
+"Cedar Rapids, IA M.S.A.","Cedar Rapids, IA (Benton and Jones Counties not in sample)",100
+"Iowa City, IA M.S.A.","Iowa City, IA (Washington County not in sample)",100
+"Topeka, KS M.S.A.","Topeka, KS (Jackson and Jefferson Counties not in sample)",100
+"Louisville/Jefferson County, KY-IN M.S.A.","Louisville, KY-IN (Washington, IN; Henry, KY; Nelson, KY; Shelby, KY; and Trimble, KY",100
+"Shreveport-Bossier City, LA M.S.A.","Shreveport-Bossier City, LA (De Soto Parish not in sample)",100
+"New Orleans-Metairie, LA M.S.A.","New Orleans-Metairie-Kenner, LA",100
+"Lake Charles, LA M.S.A.2","Lake Charles, LA (Cameron Parish not in sample)",100
+"Hagerstown-Martinsburg, MD-WV M.S.A.","Hagerstown-Martinsburg, MD-WV (Berkeley County, WV not identified and Morgan County, W",100
+"Springfield, MA M.S.A.","Springfield, MA-CT (Connecticut portion not identified)",100
+"Worcester, MA-CT M.S.A.","Worcester, MA-CT (Connecticut portion not identified)",100
+"Minneapolis-St. Paul-Bloomington, MN-WI M.S.A.","Minneapolis-St Paul-Bloomington, MN-WI (Wisconsin portion not identified)",100
+"Springfield, MO M.S.A.","Springfield, MO (Dallas and Polk Counties not in sample)",100
+"Columbia, MO M.S.A.","Columbia, MO (Howard County not in sample)",100
+"Manchester-Nashua, NH M.S.A.","Manchester, NH",100
+"Camden, NJ M.D.2","Philadelphia-Camden-Wilmington, PA-NJ-DE",100
+"Vineland-Bridgeton, NJ M.S.A.2","Vineland-Millville-Bridgeton, NJ",100
+"Trenton, NJ M.S.A.2","Trenton-Ewing, NJ",100
+"Buffalo-Cheektowaga-Niagara Falls, NY M.S.A.","Buffalo-Niagara Falls, NY",100
+"Fargo, ND-MN M.S.A.","Fargo, ND-MN (MN portion not identified)",100
+"Cincinnati, OH-KY-IN M.S.A.","Cincinnati-Middletown, OH-KY-IN (Franklin County , IN not in sample; Dearborn and Ohio",100
+"Columbus, OH M.S.A.2","Columbus, OH (Morrow County not in sample)",100
+"Toledo, OH M.S.A.2","Toledo, OH (Ottawa County not in sample)",100
+"Tulsa, OK M.S.A.2","Tulsa, OK (Okmulgee County not in sample)",100
+"Eugene, OR M.S.A.","Eugene-Springfield, OR",100
+"Philadelphia, PA M.D.","Philadelphia-Camden-Wilmington, PA-NJ-DE",100
+"Providence-Warwick, RI-MA M.S.A.","Providence-Fall River-Warwick, MA-RI",100
+"Memphis, TN-MS-AR M.S.A.","Memphis, TN-MS-AR (Arkansas portion not identified and Tunica County, MS not in sample",100
+"Knoxville, TN M.S.A.","Knoxville, TN (Anderson County not in sample)",100
+"Houston-The Woodlands-Sugar Land, TX M.S.A.3","Houston-Baytown-Sugar Land, TX",100
+"San Antonio-New Braunfels, TX M.S.A.","San Antonio, TX",100
+"Killeen-Temple, TX M.S.A.","Killeen-Temple-Fort Hood, TX",100
+"Dallas-Fort Worth-Arlington, TX M.S.A.2","Dallas-Fort Worth-Arlington, TX (Delta and Hunt Counties not in sample)",100
+"Dallas-Plano-Irving, TX M.D.","Dallas-Fort Worth-Arlington, TX (Delta and Hunt Counties not in sample)",100
+"Fort Worth-Arlington, TX M.D.2","Dallas-Fort Worth-Arlington, TX (Delta and Hunt Counties not in sample)",100
+"Beaumont-Port Arthur, TX M.S.A.","Beaumont-Port Author, TX",100
+"Longview, TX M.S.A.","Longview, TX (Rusk and Upshur Counties not in sample)",100
+"Lubbock, TX M.S.A.","Lubbock, TX (Crosby County not in sample)",100
+"McAllen-Edinburg-Mission, TX M.S.A.2","McAllen-Edinburg-Pharr, TX",100
+"Provo-Orem, UT M.S.A.","Provo-Orem, UT (Juab County not in sample)",100
+"Salt Lake City, UT M.S.A.","Salt Lake City, UT (Toole County not in sample)",100
+"Roanoke, VA M.S.A.","Roanoke, VA (Craig and Franklin Counties not in sample)",100
+"Virginia Beach-Norfolk-Newport News, VA-NC M.S.A.","Virginia Beach-Norfolk-Newport News, VA-NC (North Carolina portion not identified)",100
+"Lynchburg, VA M.S.A.","Lynchburg, VA (Appomattox and Bedford Counties and Bedford City not In sample)",100
+"Richmond, VA M.S.A.","Richmond, VA (Cumberland County not in sample)",100
+"Seattle-Bellevue-Everett, WA M.D.2","Seattle-Tacoma-Bellevue, WA",100
+"Olympia-Tumwater, WA M.S.A.","Olympia, WA",100
+"Spokane-Spokane Valley, WA M.S.A.","Spokane, WA",100
+"Tacoma-Lakewood, WA M.D.","Seattle-Tacoma-Bellevue, WA",100
+"Green Bay, WI M.S.A.","Green Bay, WI (Oconto County not in sample)",100
+"La Crosse-Onalaska, WI-MN M.S.A.","La Crosse, WI (Houston County not in sample)",100
+"Saginaw, MI M.S.A.","Saginaw-Saginaw Township North, MI",100
+"St. Louis, MO-IL M.S.A.2","St. Louis, MO-IL (Calhoun County, IL not in sample)",100

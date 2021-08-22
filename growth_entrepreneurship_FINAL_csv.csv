@@ -1,0 +1,38 @@
+key,name,type,scope,format,decimalplaces
+Location,Location,categorical,global,,
+Location_name,Location Name,categorical,local,,
+Category,Category,categorical,local,,
+Location_web,Location Name,categorical,local,,
+MetroAreaStates,Metro Area States,categorical,local,,
+MetroAreaMainCity,Metro Area Main City,categorical,local,,
+Index Year,Index Year,categorical,global,,
+year_BDS,Data Year - BDS ,categorical,local,,
+Industry,Industry,categorical,local,,
+Industry2,Industry2,categorical,local,,
+HighGrowthCompanyDensityRank,High Growth Company Density Rank,quantitative,local,number,0
+HighGrowthCompanies,High Growth Companies,quantitative,local,number,0
+share_scale,Share of Scale-ups,quantitative,local,percent,2
+start_growth,Rate of Startup Growth,quantitative,local,percent,2
+inc_year,Data Year - INC,categorical,local,,
+h_g_density,High Growth Company Density,quantitative,local,number,1
+z_rate,Z-score Rate of Startup Growth,quantitative,local,number,3
+z_share,Z-score Share of Scaleups,quantitative,local,number,3
+z_hg_density,Z-score High Growth Company Density,quantitative,local,number,3
+growth_index,Growth Index,quantitative,local,number,3
+Rank,Rank,quantitative,local,number,0
+index_last_y,Index - Last Year,quantitative,local,number,2
+index_diff,Change in Index,quantitative,local,number,2
+rank_last_y,Rank - Previous Year,quantitative,local,number,0
+rank_diff,Change in Rank,quantitative,local,number,0
+norm_rate,Standardized Rate of Startup Growth,quantitative,local,number,3
+norm_share,Standardized Share of Scaleups,quantitative,local,number,3
+norm_hg_density,Standardized High Growth Company Density,quantitative,local,number,3
+Characteristic,Characteristic,categorical,global,,
+Breakdown,Breakdown,categorical,global,,
+year_BDS_5yr,Data Year - 5 - Established Small Business Density,categorical,local,,
+share_scale_web,Share of Scaleups (1000),quantitative,local,number,0
+avgfsize_age5,Firm Size - Year 0,quantitative,local,number,1
+avgfsize_base_age0,Firm Size - Year 5,quantitative,local,number,1
+location_category,Location Category ,categorical,local,,
+index_diff_text,Category,categorical,local,,
+ShareofHighGrowth,Share of High Growth Companies,quantitative,local,percent,2
